@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [prameshbasnet.com.np](prameshbasnet.com.np)
+- 👨‍💻 My Personal Website [prameshbasnet.com.np](prameshbasnet.com.np)
 
 - 💬 Ask me about **React**
 
