@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/@prameshbasnet11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prameshbasnet11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pramesh basnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramesh basnet" height="30" width="40" /></a>
-<a href="https://instagram.com/pramesh_basnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramesh_basnet" height="30" width="40" /></a>
+<a href="https://instagram.com/pramesh__basnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramesh_basnet" height="30" width="40" /></a>
 </p>
 
 
