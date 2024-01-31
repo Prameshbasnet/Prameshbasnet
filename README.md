@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@prameshbasnet11" target="blank"><img src="https://img.shields.io/twitter/follow/@prameshbasnet11?logo=twitter&style=for-the-badge" alt="@prameshbasnet11" /></a> </p>
 
-- 🌱 I’m currently learning ** .Net **
+- 🌱 I’m currently learning **.Net**
 
 - 👨‍💻 My Personal Website [prameshbasnet.com.np](prameshbasnet.com.np)
 
