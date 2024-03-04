@@ -1,50 +1,27 @@
-<p align="center">
-  <a href="https://github.com/"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Pramesh.;I+love+open-source.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Pramesh Basnet</h1>
+<h3 align="center">A passionate developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prameshbasnet&label=Profile%20views&color=0e75b6&style=flat" alt="prameshbasnet" /> </p>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Dart-00AED8.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-</div>
-</p>
+<p align="left"> <a href="https://twitter.com/prameshbasnet11" target="blank"><img src="https://img.shields.io/twitter/follow/prameshbasnet11?logo=twitter&style=for-the-badge" alt="prameshbasnet11" /></a> </p>
 
+- 🌱 I’m currently learning **Flutter**
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-</div>
-</p>
+- 👨‍💻 All of my projects are available at [prameshbasnet.com.np](prameshbasnet.com.np)
 
+- 📫 How to reach me **bpramesh742@gmail.com**
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-<br/>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
-  </a>
-</p>
-<br>
-
-<p align="center">
-  <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrinworx&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
+<a href="https://twitter.com/prameshbasnet11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prameshbasnet11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pramesh-basnet-10164521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramesh-basnet-10164521a/" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prameshbasnet&show_icons=true&locale=en&layout=compact" alt="prameshbasnet" /></p>
 
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prameshbasnet&show_icons=true&locale=en" alt="prameshbasnet" /></p>
 
-A passionate software developer 
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prameshbasnet&" alt="prameshbasnet" /></p>
