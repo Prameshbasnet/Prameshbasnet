@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pramesh Basnet </h1>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Dart**
 
 - 👨‍💻 All of my projects are available at [prameshbasnet.com.np](prameshbasnet.com.np)
 
